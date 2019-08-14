@@ -1,0 +1,27 @@
+/**
+
+@mainpage (Subject 1 - fcompare )
+
+@author Valentinos Pariza
+
+This program implements a compare operation of two files.It simply takes 
+two files and compares every corresponding lines of the file,whether they are 
+equal or not.At the end it prints the different lines of the file.But also there
+is an opportunity to modify the status of the different lines printed by three
+options :
+
+/nc : Ignore the upper and lower cases.
+/s  : Return the first and the last line of a set of consecutive lines
+      which are all different.
+/ln : Print the number of the diffrent lines 
+
+These options can be used optionally and every combination of them is 
+acceptable.
+
+This subject is a simple example of computational comparison of almost anything.
+Like comparing the files,strings,objects,numbers and in mucj more examples.
+
+It is a useful function which can be used in many applications for file 
+comparison.
+
+*/
